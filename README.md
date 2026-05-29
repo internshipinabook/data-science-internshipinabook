@@ -30,8 +30,22 @@ The complete internship experience includes:
 
 📖 Available on Selar:
 
-**[Buy The Data Science Internship][[Selar Link]](https://selar.com/al990ay7ux)**
+**[Buy The Data Science Internship book][[Selar Link]](https://selar.com/al990ay7ux)**
 
 *Learn. Practice. Launch.*
+
+
+## InternshipInABook™ Series
+
+* ✅ Book 0 — The Python Internship
+* ✅ Book 1 — The Data Science Internship
+* 🚧 Book 2 — The NLP Internship
+* Coming Soon — The Machine Learning Internship
+* Coming Soon — The MLOps Internship
+* Coming Soon — The Computer Vision Internship
+* Coming Soon — The Federated Learning Internship
+
+Building real-world AI and Data Science skills through immersive internship simulations.
+
 
 
