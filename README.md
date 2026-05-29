@@ -4,6 +4,15 @@
 ![Banner](assets/banner/book1_banner.png)
 
 
+###📘 Get the Complete Book:
+👉 Buy The Data Science Internship on Selar
+
+**[Buy The Data Science Internship book][[Selar Link]](https://selar.com/al990ay7ux)**
+
+
+
+
+
 # 📘 The Data Science Internship
 
 **Book 1 of 9 in the InternshipInABook™ Series**
@@ -26,11 +35,6 @@ The complete internship experience includes:
 * capstone projects
 * career-focused learning activities
 
-### Get the Complete Book
-
-📖 Available on Selar:
-
-**[Buy The Data Science Internship book][[Selar Link]](https://selar.com/al990ay7ux)**
 
 *Learn. Practice. Launch.*
 
