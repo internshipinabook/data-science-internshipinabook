@@ -4,7 +4,9 @@
 ![Banner](assets/banner/book1_banner.png)
 
 
-#📘 **Get the Complete Book:**
+
+# 📘 **Get the Complete Book:**
+
 👉 Buy The Data Science Internship on Selar
 
 **[Buy The Data Science Internship book][[Selar Link]](https://selar.com/al990ay7ux)**
